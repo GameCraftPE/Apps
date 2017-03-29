@@ -1,0 +1,7 @@
+int array androidcolors 0x7f040000
+int color accent 0x7f050000
+int drawable gamecraft 0x7f020000
+int id imageView1 0x7f070000
+int id webview 0x7f070001
+int layout main 0x7f030000
+int string app_name 0x7f060000
