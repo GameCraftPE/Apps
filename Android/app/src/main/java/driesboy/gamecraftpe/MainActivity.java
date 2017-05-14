@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
     // Add your HTML, JavaScript and CSS files under /src/main/assets/www/
     // If you want to use a remote URL, change the value of INDEX
     // You also need to add internet permissions in the manifest file
-    private final String INDEX = "http://gamecraft.000webhostapp.com";
+    private final String INDEX = "https://www.gamecraftpe.tk";
 
     private WebView webView;
 
