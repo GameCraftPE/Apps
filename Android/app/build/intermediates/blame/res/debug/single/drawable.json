@@ -2,5 +2,9 @@
     {
         "merged": "/Users/Ronny/Desktop/GameCraftPE/app/build/intermediates/res/merged/debug/drawable/gamecraft.jpg",
         "source": "/Users/Ronny/Desktop/GameCraftPE/app/src/main/res/drawable/gamecraft.jpg"
+    },
+    {
+        "merged": "/Users/driescoenen/Desktop/Documenten/Github/GameCraftPE/Apps/Android/app/build/intermediates/res/merged/debug/drawable/gamecraft.jpg",
+        "source": "/Users/driescoenen/Desktop/Documenten/Github/GameCraftPE/Apps/Android/app/src/main/res/drawable/gamecraft.jpg"
     }
 ]
